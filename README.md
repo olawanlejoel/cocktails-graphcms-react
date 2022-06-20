@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a [React](https://reactjs.org/) project bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and structured/developed by Joel Olawanle.
+
+For this app, we made use of react.js to create a blog showcase application that retrieves all blogposts from GraphCMS by querying data using GraphQL and implemented pagination from scratch and using a package. Test it our [here]([https://graphcms-react-pagination.netlify.app/](https://cocktails-graphcms.netlify.app/)).
+
+![image](https://user-images.githubusercontent.com/57611810/174583683-15fc13ad-0b23-4d5a-a8b4-75fd031dfa4d.png)
 
 ## Available Scripts
 
